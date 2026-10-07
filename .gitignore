@@ -1,0 +1,21 @@
+# Compiled executables
+bin/
+*.o
+*.out
+*.exe
+
+# Temporary test files
+/tmp/
+memory_test
+
+# Backup files
+*_backup.c
+*_backup_*.c
+
+# Editor files
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
